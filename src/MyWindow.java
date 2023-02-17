@@ -31,5 +31,10 @@ public class MyWindow extends Frame {
 
     //all this stuff is really just to demonstrate that I can do a lot of stuff and only hve to write a small amount of code
 //by importing Java inbuilt packages that allow for things like front changse, window pop up, drawing, etc.
+
+    //what I can also do is to create a package where the main method is stored in a different package. Then can
+    // import package into a different project if that package contains code you want to reuse. If I want to individually
+    // select classes I want to reuse, I can go into finder on computer and go through folder pulldowns to find a class
+    // and copy and paste it into thee appropraite folder of a new project
 }
 
